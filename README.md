@@ -1,7 +1,6 @@
-#Coffee Machine Program 
+#Project Name : Coffee Machine Program 
 # The is an exercise to help you to learn and be more familier with python specially making Function!.
 # Here is the step by step how this project works. Make sure follow the steps.
-#Coffee Machine Program Requirements
 1. Prompt user by asking “ What would you like? (espresso/latte/cappuccino): ”
 a. Check the user’s input to decide what to do next.
 b. The prompt should show every time action has completed, e.g. once the drink is
